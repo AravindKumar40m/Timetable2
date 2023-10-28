@@ -1,0 +1,197 @@
+{
+  "dept": [
+    {
+      "id": 1,
+      "name": "Mathematics"
+    },
+    {
+      "id": 2,
+      "name": "Mechanical"
+    },
+    {
+      "id": 3,
+      "name": "Computer science"
+    },
+    {
+      "id": 4,
+      "name": "Information technology"
+    }
+  ],
+  "deg_prog": [
+    {
+      "id": 1,
+      "deg_name": "msc_it"
+    },
+    {
+      "id": 2,
+      "deg_name": "msc_cs"
+    },
+    {
+      "id": 3,
+      "deg_name": "msc_em"
+    }
+  ],
+  "semester":[
+    {
+      "sem_id": 1,
+      "sem_num": 1,
+      "req_year": 2023,
+      "deg_name": "msc_it",
+      "batch": "A",
+      "sem": "odd"
+    },
+    {
+      "sem_id": 2,
+      "sem_num": 1,
+      "req_year": 2023,
+      "deg_name": "msc_it",
+      "batch": "B",
+      "sem": "odd"
+    },
+    {
+      "sem_id": 3,
+      "sem_num": 2,
+      "req_year": 2023,
+      "deg_name": "msc_it",
+      "batch": "A",
+      "sem": "even"
+    },
+    {
+      "sem_id": 4,
+      "sem_num": 2,
+      "req_year": 2023,
+      "deg_name": "msc_it",
+      "batch": "B",
+      "sem": "even"
+    },
+    {
+      "sem_id": 5,
+      "sem_num": 3,
+      "req_year": 2023,
+      "deg_name": "msc_it",
+      "batch": "A",
+      "sem": "odd"
+    },
+    {
+      "sem_id": 6,
+      "sem_num": 3,
+      "req_year": 2023,
+      "deg_name": "msc_it",
+      "batch": "B",
+      "sem": "odd"
+    },
+    {
+      "sem_id": 7,
+      "sem_num": 4,
+      "req_year": 2023,
+      "deg_name": "msc_it",
+      "batch": "A",
+      "sem": "even"
+    },
+    {
+      "sem_id": 8,
+      "sem_num": 4,
+      "req_year": 2023,
+      "deg_name": "msc_it",
+      "batch": "B",
+      "sem": "even"
+    },
+    {
+      "sem_id": 9,
+      "sem_num": 1,
+      "req_year": 2023,
+      "deg_name": "msc_cs",
+      "batch": "A",
+      "sem": "odd"
+    },
+    {
+      "sem_id": 10,
+      "sem_num": 1,
+      "req_year": 2023,
+      "deg_name": "msc_cs",
+      "batch": "B",
+      "sem": "odd"
+    },
+    {
+      "sem_id": 11,
+      "sem_num": 2,
+      "req_year": 2023,
+      "deg_name": "msc_cs",
+      "batch": "A",
+      "sem": "even"
+    },
+    {
+      "sem_id": 12,
+      "sem_num": 2,
+      "req_year": 2023,
+      "deg_name": "msc_cs",
+      "batch": "B",
+      "sem": "even"
+    },
+    {
+      "sem_id": 13,
+      "sem_num": 3,
+      "req_year": 2023,
+      "deg_name": "msc_cs",
+      "batch": "A",
+      "sem": "odd"
+    },
+    {
+      "sem_id": 14,
+      "sem_num": 3,
+      "req_year": 2023,
+      "deg_name": "msc_cs",
+      "batch": "B",
+      "sem": "odd"
+    },
+    {
+      "sem_id": 15,
+      "sem_num": 4,
+      "req_year": 2023,
+      "deg_name": "msc_cs",
+      "batch": "A",
+      "sem": "even"
+    },
+    {
+      "sem_id": 16,
+      "sem_num": 4,
+      "req_year": 2023,
+      "deg_name": "msc_cs",
+      "batch": "B",
+      "sem": "even"
+    },
+    {
+      "sem_id": 17,
+      "sem_num": 1,
+      "req_year": 2023,
+      "deg_name": "msc_em",
+      "batch": "A",
+      "sem": "odd"
+    },
+    {
+      "sem_id": 18,
+      "sem_num": 1,
+      "req_year": 2023,
+      "deg_name": "msc_em",
+      "batch": "B",
+      "sem": "odd"
+    },
+    {
+      "sem_id": 19,
+      "sem_num": 2,
+      "req_year": 2023,
+      "deg_name": "msc_em",
+      "batch": "A",
+      "sem": "even"
+    },
+    {
+      "sem_id": 20,
+      "sem_num": 2,
+      "req_year": 2023,
+      "deg_name": "msc_em",
+      "batch": "B",
+      "sem": "even"
+    }
+  ]
+  
+}
